@@ -1,0 +1,19 @@
+#include <stdbool.h>
+
+bool isPalindrome(int a) {
+    if (a < 0)
+        return false;
+
+    int long long temp = a, rev = 0, rem;
+    while (temp != 0) {
+        rem = temp % 10;
+        rev = rev * 10 + rem;
+        temp = temp / 10;
+    }
+
+    if (rev == a)
+        return true;
+    else
+        return false;
+    return 0;
+}
