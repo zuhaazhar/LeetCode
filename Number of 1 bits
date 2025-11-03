@@ -1,0 +1,12 @@
+int hammingWeight(int n) {
+    int temp, k = 0;
+    int convert[50];
+    temp = n;
+    for (int i = 49; i >= 0; i--) {
+        convert[i] = temp % 2;
+        temp = temp / 2;
+        if (convert[i] == 1)
+            k++;
+    }
+    return k;
+}
