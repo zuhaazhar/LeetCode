@@ -1,0 +1,20 @@
+bool checkRecord(char* s) {
+    int A = 0, L = 0, i;
+    for (i = 0; i < strlen(s); i++) {
+        if (s[i] == 'L') {
+            L++;
+            if (L == 3)
+                break;
+        }
+        if (s[i] == 'A') {
+            A++;
+            L = 0;
+        }
+        if (s[i] == 'P')
+            L = 0;
+    }
+    if (A < 2 && L < 3)
+        return true;
+    else
+        return false;
+}
