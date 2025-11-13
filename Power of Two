@@ -1,0 +1,9 @@
+bool isPowerOfTwo(int n) {
+    int k = 1;
+    for (int i = 1; i <= log2(n); i++)
+        k *= 2;
+    if (n == k)
+        return true;
+    else
+        return false;
+}
