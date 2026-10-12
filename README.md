@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/zuhaazhar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/zuhaazhar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/zuhaazhar/LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/zuhaazhar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/zuhaazhar/LeetCode/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/zuhaazhar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Array
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/zuhaazhar/LeetCode/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/zuhaazhar/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
