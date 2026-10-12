@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/zuhaazhar/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/zuhaazhar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0414-third-maximum-number](https://github.com/zuhaazhar/LeetCode/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/zuhaazhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0414-third-maximum-number](https://github.com/zuhaazhar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/zuhaazhar/LeetCode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/zuhaazhar/LeetCode/tree/master/0704-binary-search) |
 ## Linked List
