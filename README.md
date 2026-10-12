@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/zuhaazhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0622-design-circular-queue](https://github.com/zuhaazhar/LeetCode/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/zuhaazhar/LeetCode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/zuhaazhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/zuhaazhar/LeetCode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
