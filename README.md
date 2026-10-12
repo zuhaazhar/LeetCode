@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/zuhaazhar/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/zuhaazhar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/zuhaazhar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/zuhaazhar/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/zuhaazhar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -68,6 +70,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/zuhaazhar/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/zuhaazhar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/zuhaazhar/LeetCode/tree/master/0622-design-circular-queue) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/zuhaazhar/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/zuhaazhar/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
