@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zuhaazhar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/zuhaazhar/LeetCode/tree/master/0020-valid-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/zuhaazhar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bracket Sequences
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/zuhaazhar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/zuhaazhar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/zuhaazhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0414-third-maximum-number](https://github.com/zuhaazhar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/zuhaazhar/LeetCode/tree/master/0622-design-circular-queue) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/zuhaazhar/LeetCode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/zuhaazhar/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
